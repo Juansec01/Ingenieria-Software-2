@@ -6,7 +6,7 @@
 
 **Versión:** 1.0  
 **Fecha:** Septiembre 2025  
-**Equipo:** Eduard Criollo, Felipe Charria, Jhonathan Chicaiza, Emmanuel Mena  
+**Equipo:** Eduard Criollo, Felipe Charria, Jhonathan Chicaiza, Emmanuel Mena,Juan Sebastian Castillo
 **Estado:** Documento de Diseño Técnico Final  
 
 ---
